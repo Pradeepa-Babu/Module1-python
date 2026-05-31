@@ -1,3 +1,4 @@
+
 ## Conditional Statements in Python: Even or Odd Checker
 
 **NAME : PRADEEPA B**  
@@ -29,6 +30,8 @@ Output
 Enter a number: 7
 ODD
 ```
+<img width="483" height="263" alt="image" src="https://github.com/user-attachments/assets/3dd15290-feab-4676-9705-a3f86ad77e29" />
+
 
 Result  
 Thus, the Python program to check whether the given number is even or odd using if...else statements was executed successfully and the output was verified.
